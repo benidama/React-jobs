@@ -83,6 +83,34 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "8ef2",
+      "title": "Quintus",
+      "type": "Full-Time",
+      "location": "Kigali/Rwanda",
+      "description": "We will give all you need",
+      "salary": "$50K - 60K",
+      "company": {
+        "name": "Quintus",
+        "description": "All its ok",
+        "contactEmail": "ddjjdj@gmail.com",
+        "contactPhone": "0558886866868"
+      }
+    },
+    {
+      "id": "5fb6",
+      "title": "Remote react job",
+      "type": "Part-Time",
+      "location": "Kigali/Rwanda",
+      "description": "very easy",
+      "salary": "Under $50K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "Gives you all",
+        "contactEmail": "hhhhhhhhhh@gmail.com",
+        "contactPhone": "7888888"
+      }
     }
   ]
 }
